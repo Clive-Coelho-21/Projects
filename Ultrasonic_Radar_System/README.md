@@ -16,4 +16,4 @@ This project recreates a basic RADAR system using an Arduino Uno, a servo motor,
 
 When an object is detected at a distance less than 30 cm, the servo motor reduces 30° to 150° and back to focus more on the target and enable faster detection. Additionally, a buzzer is used to provide an audible alert, with the buzzer frequency varying based on the detected distance to indicate proximity.
 
-![RADAR System](C:\Users\hp\Desktop\CLIVE\Github_Projects\Images_Videos\Ultrasonic_RADAR_System.jpeg)
+![RADAR System](Images_Videos\Ultrasonic_RADAR_System.jpeg)
